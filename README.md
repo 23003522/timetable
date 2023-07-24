@@ -118,9 +118,14 @@ Execute the program
             <td align="center">19EY701</td>
             <td align="center">soft skills(SS)</td>
         </tr>
-</body>
+</body>![timetable](https://github.com/23003522/timetable/assets/138849213/878a8c61-56db-4b28-a47c-140905906b95)
+
 </html>
 ```
 
 # OUPUT
-![timetable](timetable.png)
+![timetable]
+
+
+# RESULT
+program is created successfully
