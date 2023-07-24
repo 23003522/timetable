@@ -125,6 +125,7 @@ Execute the program
 
 # OUPUT
 ![timetable]
+v
 
 
 # RESULT
