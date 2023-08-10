@@ -22,7 +22,7 @@ Execute the program
 <img src="logo.png" width='600' align='center'>
 <body>
     <table BORDER='3' width='600' bgcolor='cyan' cellspacing='3' cellpaddling='3'>
-        <CAPTION align="above">SLOT TIMETABLE-Tanushree (23004953)</CAPTION> 
+        <CAPTION align="above">SLOT TIMETABLE-PRRIYADHARSHINU (23003522)</CAPTION> 
         <tr>
             <th align="center" bgcolor="yellow">Day/Time</th>
             <th align="center" bgcolor="yellow">Monday</th>
