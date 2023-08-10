@@ -124,7 +124,8 @@ Execute the program
 ```
 
 # OUPUT
-![timetable](https://github.com/23003522/timetable/assets/138849213/ca11ff3c-16ae-4bc1-9ff7-4a1940a1035b)
+![priya-timetable](https://github.com/23003522/timetable/assets/138849213/d1a26232-6f9d-40cd-aae2-d02780ea7d5b)
+
 
 
 
